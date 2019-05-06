@@ -7,4 +7,4 @@
 
 OneMall 项目的最终目标是统一 JD、TB、TM 等各大商城，提供统一的购物流程。而且还需要具备商城外放能力，整体的功能图如下图所示。
 
-![](./img/onemall.png)
+![](./img/OneMall.png)

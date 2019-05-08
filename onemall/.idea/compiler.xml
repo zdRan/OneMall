@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="onemall" />
+        <module name="onemall-cashier" />
+        <module name="onemall-cshier" />
+        <module name="onemall-goods-provider" />
+        <module name="onemall-manager" />
+        <module name="onemall-order-provider" />
+        <module name="onemall-supplier-provider" />
+        <module name="onemall-task" />
+        <module name="onemall-user-provider" />
+        <module name="onemall-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="onemall" target="1.5" />
+      <module name="onemall-cashier" target="1.8" />
+      <module name="onemall-cshier" target="1.8" />
+      <module name="onemall-goods-provider" target="1.8" />
+      <module name="onemall-manager" target="1.8" />
+      <module name="onemall-order-provider" target="1.8" />
+      <module name="onemall-supplier-provider" target="1.8" />
+      <module name="onemall-task" target="1.8" />
+      <module name="onemall-user-provider" target="1.8" />
+      <module name="onemall-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

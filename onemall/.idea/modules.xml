@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/onemall.iml" filepath="$PROJECT_DIR$/onemall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemall-goods-provider/onemall-cashier.iml" filepath="$PROJECT_DIR$/onemall-goods-provider/onemall-cashier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemall-cshier/onemall-cshier.iml" filepath="$PROJECT_DIR$/onemall-cshier/onemall-cshier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemall-goods-provider/onemall-goods-provider.iml" filepath="$PROJECT_DIR$/onemall-goods-provider/onemall-goods-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemall-manager/onemall-manager.iml" filepath="$PROJECT_DIR$/onemall-manager/onemall-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemall-order-provider/onemall-order-provider.iml" filepath="$PROJECT_DIR$/onemall-order-provider/onemall-order-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemall-supplier-provider/onemall-supplier-provider.iml" filepath="$PROJECT_DIR$/onemall-supplier-provider/onemall-supplier-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemall-task/onemall-task.iml" filepath="$PROJECT_DIR$/onemall-task/onemall-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemall-user-provider/onemall-user-provider.iml" filepath="$PROJECT_DIR$/onemall-user-provider/onemall-user-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onemall-web/onemall-web.iml" filepath="$PROJECT_DIR$/onemall-web/onemall-web.iml" />
+    </modules>
+  </component>
+</project>

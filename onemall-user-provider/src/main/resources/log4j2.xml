@@ -12,7 +12,7 @@
     <Properties>
         <!-- 配置日志文件输出目录,此处为项目根目录下的logs文件夹 -->
         <Property name="LOG_HOME">D:\sysLogs\onemall</Property>
-        <property name="FILE_NAME">onemall-task</property>
+        <property name="FILE_NAME">onemall-user-provider</property>
     </Properties>
 
     <Appenders>

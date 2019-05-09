@@ -7,6 +7,15 @@
     <groupId>com.zdran</groupId>
     <artifactId>onemall</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <modules>
+        <module>onemall-cshier</module>
+        <module>onemall-goods-provider</module>
+        <module>onemall-manager</module>
+        <module>onemall-order-provider</module>
+        <module>onemall-supplier-provider</module>
+        <module>onemall-task</module>
+        <module>onemall-user-provider</module>
+        <module>onemall-web</module>
+    </modules>
 
 </project>

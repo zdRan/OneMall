@@ -7,7 +7,6 @@
 		<artifactId>onemall</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-	<groupId>com.zdran</groupId>
 	<artifactId>onemall-task</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>onemall-task</name>

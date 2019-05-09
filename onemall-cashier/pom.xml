@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zdran</groupId>
-	<artifactId>onemall-cshier</artifactId>
+	<artifactId>onemall-cashier</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>onemall-cshier</name>
+	<name>onemall-cashier</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

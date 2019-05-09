@@ -8,7 +8,7 @@
     <artifactId>onemall</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>onemall-cshier</module>
+        <module>onemall-cashier</module>
         <module>onemall-goods-provider</module>
         <module>onemall-manager</module>
         <module>onemall-order-provider</module>

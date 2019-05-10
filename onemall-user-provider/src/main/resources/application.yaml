@@ -1,0 +1,4 @@
+server:
+  port: 9007
+  servlet:
+    context-path: /onemall-user-provider

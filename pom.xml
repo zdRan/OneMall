@@ -17,6 +17,7 @@
         <module>onemall-task</module>
         <module>onemall-user-provider</module>
         <module>onemall-web</module>
+        <module>onemall-common</module>
     </modules>
 
     <parent>

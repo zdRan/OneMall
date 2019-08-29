@@ -1,4 +1,4 @@
-package com.zdran.onemall.cshier;
+package com.zdran.onemall.cashier;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

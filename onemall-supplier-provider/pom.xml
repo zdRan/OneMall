@@ -17,7 +17,15 @@
 	</properties>
 
 	<dependencies>
-
+		<dependency>
+			<groupId>com.zdran</groupId>
+			<artifactId>onemall-common</artifactId>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>fastjson</artifactId>
+		</dependency>
 	</dependencies>
 
 	<build>
